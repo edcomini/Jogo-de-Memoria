@@ -1,2 +1,2 @@
 # jogo-de-memoria
- Jogo de memorizar as posições das bolinhas. 
+Esse jogo foi desenvolvido para testar a memória do usuário. Ao iniciar o jogo um mosaico quadrado com bolinhas irá aparecer na tela. A primeira bolinha irá piscar e o usuário deve memorizar a posição que a bolinha piscou. Em seguida o usuário deve clicar nessa posição. De forma aleatória, em outra posição do mosaico a bolinha irá piscar novamente, e então o usuário deve clicar na primeira posição e na segunda posição que a bolinha piscou... e assim sucessivamente. Cada vez que o usuário clicar na posição correta, um ponto é marcado. Caso o usuário erre a posição, o jogo mostra uma mensagem ao usuário com a quantidade de pontos obtidos e o jogo reinicia. 
